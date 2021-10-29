@@ -1,0 +1,2 @@
+Hello world! 
+This is my first hello world text file being added to Git for the Odin Project!
