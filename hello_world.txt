@@ -1,2 +1,3 @@
 Hello world! 
 This is my first hello world text file being added to Git for the Odin Project!
+I am changing this code once more to test out <git config --global core.editor "code --wait" command
